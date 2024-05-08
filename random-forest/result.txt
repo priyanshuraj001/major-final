@@ -1,0 +1,17 @@
+****** Random Forest *******
+
+Accuracy: 0.72
+
+Confusion Matrix:
+[[ 1  1]
+ [ 4 12]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.20      0.50      0.29         2
+           1       0.92      0.75      0.83        16
+
+    accuracy                           0.72        18
+   macro avg       0.56      0.62      0.56        18
+weighted avg       0.84      0.72      0.77        18

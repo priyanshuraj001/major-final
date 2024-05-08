@@ -1,0 +1,5 @@
+dataset- 
+
+https://openneuro.org/datasets/ds004504/versions/1.0.7
+
+https://figshare.com/articles/dataset/SAM_40_Dataset_of_40_Subject_EEG_Recordings_to_Monitor_the_Induced-Stress_while_performing_Stroop_Color-Word_Test_Arithmetic_Task_and_Mirror_Image_Recognition_Task/14562090/1
